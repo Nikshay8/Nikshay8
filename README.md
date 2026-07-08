@@ -2,8 +2,6 @@
 
 ### Java | Python | Web Development
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikshay8&label=Profile views&color=0e75b6&style=flat" alt="Nikshay8" /> </p>
-
 <p align="left"> <a href="https://twitter.com/nikshay_nikk" target="blank"><img src="https://img.shields.io/twitter/follow/nikshay_nikk?logo=twitter&style=for-the-badge" alt="nikshay_nikk" /></a> </p>
 
 - 🔭 I'm currently working on **a MERN stack project**
