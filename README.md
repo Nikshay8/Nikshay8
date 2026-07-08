@@ -1,4 +1,4 @@
-Hi ! My name is Nikshay Singh
+Hi👋! My name is Nikshay Singh
 ======================================================================================================================================
 
 Java | Python | Web Development
